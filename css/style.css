@@ -115,3 +115,22 @@
 	height: 210px;
 	margin-bottom: 102px;
 	
+
+}
+.child2{
+	color: #FFFFFF;
+	font-size: 16px;
+	top: 20px;
+	left: 20px;
+}
+.left-block1{
+	display: inline-block;
+	margin-right: 30px;
+	vertical-align: middle;
+
+}
+.right-block1{
+	display: inline-block;
+	vertical-align: middle;
+	height: 896px;
+}
